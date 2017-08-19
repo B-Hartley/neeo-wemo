@@ -1,0 +1,24 @@
+{
+  "name": "neeo-wemo",
+  "version": "1.0.0",
+  "description": "Neeo SDK Wemo Switch support",
+  "main": "index.js",
+  "dependencies": {
+    "neeo-sdk": "^0.43.7",
+    "wemo-client": "^0.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b-hartley/neeo-wemo.git"
+  },
+  "author": "Bruce Hartley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b-hartley/neeo-wemo/issues"
+  },
+  "homepage": "https://github.com/b-hartley/neeo-wemo#readme"
+}
